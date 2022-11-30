@@ -7,15 +7,15 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "bulma": "^0.9.3",
-    "core-js": "^3.17.2",
-    "vue": "^2.6.14",
-    "vue-router": "^3.5.2"
+    "bulma": "^0.9.4",
+    "core-js": "^3.26.1",
+    "vue": "^2.7.14",
+    "vue-router": "^3.6.5"
   },
   "devDependencies": {
-    "@vue/cli-plugin-router": "^4.5.13",
-    "@vue/cli-service": "^4.5.13",
-    "vue-template-compiler": "^2.6.14"
+    "@vue/cli-plugin-router": "^5.0.8",
+    "@vue/cli-service": "^5.0.8",
+    "vue-template-compiler": "^2.7.14"
   },
   "browserslist": [
     "> 1%",
