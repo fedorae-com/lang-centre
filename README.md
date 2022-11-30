@@ -19,5 +19,4 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Video Tutorial - Fedorae Education 
-https://www.youtube.com/watch?v=71eYSE0dkcE&list=PL0kQPOHhjroKJzZNejYTPrqOjAl2WcKeu
-
+[https://www.youtube.com/watch?v=71eYSE0dkcE&list=PL0kQPOHhjroKJzZNejYTPrqOjAl2WcKeu](https://www.youtube.com/watch?v=71eYSE0dkcE&list=PL0kQPOHhjroKJzZNejYTPrqOjAl2WcKeu)
